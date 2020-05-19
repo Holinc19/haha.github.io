@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://haha.github.io
+url: https://holinc19.github.io
 date_format: "ordinal"
 title: Personal Blog
 subtitle: "day day up"
@@ -81,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: Holinc19/haha.github.io 
+repository: Holinc19/holinc19.github.io 
 
 # ---------------- #
 #      Comments    #
